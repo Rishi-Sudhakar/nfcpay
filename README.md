@@ -20,7 +20,7 @@ An NFC-based payment application using HTML, PHP, and Arduino.
 
 1. **Clone the Repository:**
    ```bash
-   git clone git@github.com:Rishi-Sudhakar/nfcpay.git
+   git clone https://github.com/Rishi-Sudhakar/nfcpay.git
    ```
 2. **Upload Arduino Code:**
 
